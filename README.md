@@ -1,1 +1,1 @@
-# C2
+# logistic regression1
